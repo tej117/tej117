@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a Software Engineering Student at UVic, University of Victoria. I enjoy programming and have a vast interest in a multitude of programming fields. I am currently working on a python script for the Google Calendar API. Some ongoing projects that I work on periodically is my Tetris Game (built in Java), and my personal website. Currently, I am learning Godot since I also have an interest in making Video Games.
+
+
+
 <!--
 **tej117/tej117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
