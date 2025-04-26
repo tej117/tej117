@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am a Software Engineering Student at UVic, University of Victoria. I enjoy programming and have a vast interest in a multitude of programming fields. I am currently working on a python script for the Google Calendar API. Some ongoing projects that I work on periodically is my Tetris Game (built in Java), and my personal website. Currently, I am learning Godot since I also have an interest in making Video Games.
-
+I am a Software Engineering Student at UVic, University of Victoria. I enjoy programming and have a vast interest in a multitude of programming fields. I am currently working on a personal website using React and Typescript. An ongoing projects that I work on periodically is my Tetris Game (built in Java). Currently, I am in the Robotics Club and AI Club at UVic where I work on additional projects related to those fields.
 
 
 <!--
